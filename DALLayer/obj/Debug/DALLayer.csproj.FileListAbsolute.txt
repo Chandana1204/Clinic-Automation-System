@@ -1,0 +1,14 @@
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\bin\Debug\DALLayer.dll.config
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\bin\Debug\DALLayer.dll
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\bin\Debug\DALLayer.pdb
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\bin\Debug\EntityFramework.dll
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\bin\Debug\EntityFramework.xml
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\obj\Debug\DALLayer.csproj.AssemblyReference.cache
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\obj\Debug\DALLayer.csproj.CoreCompileInputs.cache
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\obj\Debug\DALLayer.dll
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\obj\Debug\DALLayer.pdb
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\obj\Debug\DALLayer.Migrations.FirstMig.resources
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\obj\Debug\DALLayer.csproj.GenerateResource.cache
+C:\Users\navee\Desktop\Clinical-Automation-System-master\DALLayer\obj\Debug\DALLayer.csproj.Up2Date
